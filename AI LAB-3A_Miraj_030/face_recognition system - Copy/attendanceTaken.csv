@@ -1,0 +1,21 @@
+AttendanceID,Roll,Name,Department,Time,Date,Attendance,Semester
+1,21992162,Neel Pawan sharma,CCSA,02:35:30,2024-05-24,Present,Math,Dr. Toralima Bora,1001,6TH SEM
+2,21992149,Biswajit Borgohain,CCSA,02:35:34,2024-05-24,Present,Math,Dr. Toralima Bora,1001,6TH SEM
+3,21992147,Bikash Das,CCSA,02:35:45,2024-05-24,Present,Math,Dr. Toralima Bora,1001,6TH SEM
+5,21992184,Himangshu Saikia,CCSA,02:35:58,2024-05-24,Present,Math,Dr. Toralima Bora,1001,6TH SEM
+4,21992153,Bokul Dutta,CCSA,02:36:09,2024-05-24,Present,Math,Dr. Toralima Bora,1001,6TH SEM
+4,21992153,Bokul Dutta,CCSA,03:19:24,2024-05-24,Absent,Math,Dr. Toralima Bora,1001,6TH SEM
+4,21992153,Bokul Dutta,CCSA,03:22:16,2024-05-24,Present,Math,Dr. Toralima Bora,1001,6TH SEM
+2,21992149,Biswajit Borgohain,CCSA,03:27:24,2024-05-24,Absent,Math,Dr. Toralima Bora,1001,6TH SEM
+2,21992149,Biswajit Borgohain,CCSA,23:36:11,2024-05-26,Present,DBMS,Dr. Priyakshi Mahanta,1002,6TH SEM
+4,21992153,Bokul Dutta,CCSA,23:36:40,2024-05-26,Present,DBMS,Dr. Priyakshi Mahanta,1002,6TH SEM
+3,21992147,Bikash Das,CCSA,23:36:57,2024-05-26,Present,DBMS,Dr. Priyakshi Mahanta,1002,6TH SEM
+3,21992147,Bikash Das,CCSA,23:50:24,2024-05-26,Present,DBMS,Priyakshi ,1002,6TH SEM
+
+2,21992149,Biswajit Borgohain,CCSA,00:16:42,2024-05-28,Absent,DBMS,Dr. Priyakshi Mahanta,1002,6TH SEM
+
+3,21992147,Bikash Das,CCSA,11:08:06,"2024-06-19",Present,Math,Dr. Toralima Bora,1001,6TH SEM
+2,21992149,Biswajit Borgohain,CCSA,11:08:06,"2024-06-19",Present,Math,Dr. Toralima Bora,1001,6TH SEM
+
+2,21992149,Biswajit Borgohain,CCSA,15:29:35,"2024-06-19",Present,,,,6TH SEM
+3,21992147,Bikash Das,CCSA,15:46:54,"2024-06-19",Present,,,,6TH SEM4,21992153,Bokul Dutta,CCSA,15:49:12,2024-06-19,Absent,Math,Dr. Toralima Bora,1001,6TH SEM
